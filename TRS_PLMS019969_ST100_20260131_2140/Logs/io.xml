@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="io.xml" projectName="C:\munka\autoliv\2015_224BE_ST100\io.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="8:08:48 AM">
+    <Message>Error found while loading file C:\munka\autoliv\2015_224BE_ST100\io.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>

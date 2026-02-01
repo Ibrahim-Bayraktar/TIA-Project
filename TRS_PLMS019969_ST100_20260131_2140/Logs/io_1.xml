@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="io_1.xml" projectName="C:\munka\autoliv\2015_224BE_ST100\io.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="8:09:32 AM">
+    <Message>The version ID is missing in the XLSX file. It is assumed that this is the latest version.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="8:09:32 AM">
+    <Message>The Excel document does not contain a "PLC Tags" sheet.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="8:09:32 AM">
+    <Message>The Excel document does not contain a "Constants" sheet.</Message>
+  </LogEntry>
+</LogFile>
